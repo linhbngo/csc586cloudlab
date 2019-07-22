@@ -19,7 +19,7 @@ request.addTour(tour)
 for i in range(2):
   if i == 0:
     node = request.XenVM("ldapserver")    
-  else
+  else:
     node = request.XenVM("ldapclient")
    
   node.routable_control_ip = "true"  
