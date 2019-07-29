@@ -1,4 +1,4 @@
-n: ou=People,dc=clemson,dc=cloudlab,dc=us
+dn: ou=People,dc=clemson,dc=cloudlab,dc=us
 objectClass: organizationalUnit
 ou: People
 
